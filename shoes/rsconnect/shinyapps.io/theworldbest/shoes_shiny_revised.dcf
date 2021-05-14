@@ -1,0 +1,14 @@
+name: shoes_shiny_revised
+title: shoes_shiny_revised
+username:
+account: theworldbest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4102506
+bundleId: 4588563
+url: https://theworldbest.shinyapps.io/shoes_shiny_revised/
+when: 1620794684.21613
+lastSyncTime: 1620794684.21682
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: backup.txt
