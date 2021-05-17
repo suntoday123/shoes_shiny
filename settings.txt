@@ -1,0 +1,3 @@
+pip install Keras
+Pip install tensorflow==2.4.1
+Pip install h5py==2.10.0
