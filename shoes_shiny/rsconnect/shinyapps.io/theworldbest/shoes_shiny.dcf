@@ -1,0 +1,13 @@
+name: shoes_shiny
+title: shoes_shiny
+username:
+account: theworldbest
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4143161
+bundleId: 4607543
+url: https://theworldbest.shinyapps.io/shoes_shiny/
+when: 1621260456.71084
+lastSyncTime: 1621260456.71084
+asMultiple: FALSE
+asStatic: FALSE
